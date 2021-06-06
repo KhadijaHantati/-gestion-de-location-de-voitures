@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1622930207 source:c:\users\user\desktop\nouveau dossier (3)\client.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"structure.h"
+	"prototype.h"
+
+1375873126 c:\users\user\desktop\nouveau dossier (3)\structure.h
+
+1375873126 c:\users\user\desktop\nouveau dossier (3)\prototype.h
+
+1622753489 source:c:\users\user\desktop\nouveau dossier (3)\diverts.cpp
+	<windows.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	"structure.h"
+	"prototype.h"
+
+1622752929 source:c:\users\user\desktop\nouveau dossier (3)\location.cpp
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"structure.h"
+	"prototype.h"
+
+1622979354 source:c:\users\user\desktop\nouveau dossier (3)\menu.cpp
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+
+1622940417 source:c:\users\user\desktop\nouveau dossier (3)\voiture.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+	"prototype.h"
+
+1622928798 source:c:\users\user\desktop\nouveau dossier (3)\voituretrt.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"structure.h"
+	"prototype.h"
+
+1622978620 source:c:\users\user\desktop\nouveau dossier (3)\location_voiture.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"structure.h"
+	"prototype.h"
+
